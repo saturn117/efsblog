@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'mathfilters',
     'portfolio',
+    'registration',
 ]
 
 MIDDLEWARE = [
