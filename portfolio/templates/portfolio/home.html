@@ -2,7 +2,9 @@
 {% load staticfiles %}
 {% block content %}
 <html>
-<body>
+<body {
+    background-color: lightblue;
+}>
             {% if user.is_authenticated %}
                 <div class="page-container">
 

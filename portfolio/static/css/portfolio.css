@@ -1,9 +1,11 @@
 
 body {
     padding-left: 15px;
+    margin: auto;
 }
 
 h1 a {
     color: #FCA205;
     font-family: 'cursive';
+    margin: auto;
 }
